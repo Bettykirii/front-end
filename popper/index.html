@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <tittle></tittle>
+         <link rel="stylesheet" type="text/css" href="css/main.css">
+         
+        
+         
+         
+    </head>
+    <body>
+    <header>
+        <h1>Popper.js</h1>
+    </header>
+    <div class="cont1">
+        <h1>WEBSITE UNDER CONTRUCTION</h1>
+        <p>A KICKASS LIBRARY</p>
+        <p>USED TO MANAGE IN WEB APPLICATIONS</p>
+        <p>NOW MUCH POWERFUL!</p>
+        <a href="https://www.w3schools.com/css/css3_buttons.asp"><button>DOWNLOAD</button></a>
+    </div>
+    <div class="countdown">
+            <div class="countdown-widget">
+                <div class="timer-box">
+                    <div class="label">Days</div>
+                    <div class="value days">14</div>
+                </div>
+
+                <div class="timer-box">
+                    <div class="label">Hrs</div>
+                    <div class="value hours">14</div>
+                </div>
+
+                <div class="timer-box">
+                    <div class="label">Mins</div>
+                    <div class="value mins">14</div>
+                </div>
+
+                <div class="timer-box">
+                    <div class="label">Secs</div>
+                    <div class="value secs">14</div>
+                </div>
+
+                <div class="clr"></div>
+
+            </div>
+        </div>
+
+    </div>
+
+    
+
+        <script type="text/javascript" src="jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="jquery.countdown.js"></script>
+       
+
+       <script type="text/javascript" src"jquery.js"></script>
+       <script type="text/javascript">
+      $(".days")
+      .countdown("2017/12/01", function(event) {
+        $(this).text(
+          event.strftime('%D')
+        );
+      });
+      $(".hours")
+      .countdown("2017/11/01", function(event) {
+        $(this).text(
+          event.strftime('%H')
+        );
+      });
+      $(".mins")
+      .countdown("2017/11/01", function(event) {
+        $(this).text(
+          event.strftime('%M')
+        );
+      });
+      $(".secs")
+      .countdown("2017/11/01", function(event) {
+        $(this).text(
+          event.strftime('%S')
+        );
+      });
+    </script>
+
+    </body>
+    
+<html>
+
+
+        

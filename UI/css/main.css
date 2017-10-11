@@ -1,0 +1,59 @@
+
+body{
+ background-color:#74c259;
+}
+.outer-cont{
+    height: 395px;
+    width: 495px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    margin-top: 182px;
+    padding-top: 65px;
+    padding-bottom: 0px;
+    
+}
+.form-element{
+    height: 65px;
+    width: 370px;
+    /*background-color: #f2f2f2;*/
+    margin-top: 60px;
+    margin: 0 auto;
+    margin-bottom: 0px;
+
+}
+input{
+    width: 370px;
+    height: 64px;
+    margin: 5px;
+    background-color: transparent;
+    border: none;
+
+
+
+}
+.button  {
+    background-color: #00b242 ;
+    text-align: center;
+    padding-left: 160px;
+    color: white;
+    
+}
+.uname {
+    background-color: #f2f2f2;
+    margin-bottom: 20px; 
+    padding-left: 20px;
+    color: red;
+}
+.pass{
+    background-color: #f2f2f2;
+    margin-bottom: 20px;
+    padding-left:  20px;
+}
+.last{
+    width: 370px;
+    height: 64px;
+    
+}
+a{
+    color: green;
+}

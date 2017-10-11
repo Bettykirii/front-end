@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <link rel="stylesheet" type="text/css" href="style.css">
+
+	<title></title>
+</head>
+<body>
+
+<div class="gallery">
+	
+	<div class="thumbnails">
+	<img src="images/1.jpg" data-caption ="lovely coast">
+	<img src="images/2.jpg" data-caption ="Jan's kitchen">
+	<img src="images/3.jpg" data-caption ="Yummy beef">
+	<img src="images/4.jpg" data-caption ="In the wild">
+	<img src="images/5.jpg" data-caption ="Welcome to Rio">
+	<img src="images/6.jpg" data-caption ="Lovely night club">
+	<img src="images/7.jpg" data-caption ="Model runway">
+	<img src="images/8.jpg" data-caption ="Lovely train">
+		
+	</div>
+	<div class="viewer">
+	
+
+		
+	</div>
+
+</div>
+
+
+
+<script src="jquery.js"></script>
+
+<script src="app.js"></script>
+<script type="text/javascript">
+	$(".viewer").click(function(){
+      $('.thumbnails').toggle(2000);
+	})
+
+</script>
+
+</body>
+</html>

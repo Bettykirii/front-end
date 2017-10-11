@@ -1,0 +1,205 @@
+body{
+	background-color: #fff;
+
+}
+.fan1{
+	width: 310px;
+	height: 300px;
+	background-image: url(../img/hinge.jpg);
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+
+
+}
+.fan2{
+	width: 310px;
+	height: 300px;
+	background-image: url(../img/door.jpg);
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+
+
+}
+.fan3{
+	width: 310px;
+	height: 300px;
+	background-image: url(../img/bev.jpg);
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+
+
+}
+.fan4{
+	width: 310px;
+	height: 300px;
+	background-image: url(../img/build2.jpg);
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+		
+
+
+}
+.fan5{
+	width: 310px;
+	height: 300px;
+	background-image: url(../img/polish2.jpg);
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+    	background-color: purple;
+
+}
+.fan6{
+	width: 310px;
+	height: 300px;
+	background-image: url(../img/window.jpg);
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+		background-color: purple;
+
+
+}
+.fan7{
+	width: 310px;
+	height: 300px;
+	background-image: url(../img/part.jpg);
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+		background-color: purple;
+
+	margin-bottom: 20px;
+
+}
+.fan8{
+	width: 310px;
+	height: 300px;
+	background-image: url(../img/doorhandles2.jpg);
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	background-color: purple;
+
+}
+.fana{
+	width: 310px;
+	height: 300px;
+	background-image: url(../img/shower.jpg);
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	
+
+
+}
+.fanb{
+	width: 310px;
+	height: 300px;
+	background-image: url(../img/car.jpg);
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+		background-color: purple;
+
+
+}
+.fanc{
+	width: 310px;
+	height: 300px;
+	background-image: url(../img/roofing.jpg);
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+		
+
+
+}
+.fand{
+	width: 310px;
+	height: 300px;
+	background-image: url(../img/glass.jpg);
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+
+}
+.fane{
+	width: 310px;
+	height: 300px;
+	background-image: url(../img/bev2.jpg);
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+    	
+
+}
+.fanf{
+	width: 310px;
+	height: 300px;
+	background-image: url(../img/sky.jpg);
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+		background-color: purple;
+
+
+}
+.fang{
+	width: 310px;
+	height: 300px;
+	background-image: url(../img/pulpit.jpg);
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+		
+
+	margin-bottom: 20px;
+
+}
+.fanh{
+	width: 310px;
+	height: 300px;
+	background-image: url(../img/bullet.jpg);
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	
+
+}
+.mis1{
+	
+	height: 250px;
+	width: 1340px;
+	float: left;
+	background-color: #333;
+	margin-bottom: 20px;
+	font-size: 30px;
+	color: #fff;
+	text-align: center;
+
+
+}
+h3{
+	padding-top: 200px;
+	text-align: center;
+	color: #9a070d;
+}

@@ -1,0 +1,75 @@
+
+body{
+	background-color: #808080;
+
+}
+#building{
+	background-color:#fff;
+	width:1000px;
+	min-height: 850px;
+	margin:0 auto;
+
+}
+h3{
+	color:#919191;
+	padding-left: 20px;
+
+}
+.logo{
+	background-color: #fff;
+	height: 50px;
+	width: 1000px;
+}
+.tree1{
+	height:200px;
+	width:460px;
+	float:left;
+	margin-left: 20px;
+	margin-top: 20px;
+	
+}
+.tree2{
+	height:200px;
+	width:460px;
+	float:right;
+	margin-right: 20px;
+	margin-top: 20px;
+	
+}
+.tree3{
+
+	height: 150px;
+	width: 300px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-top: 20px;
+	float:left;
+}
+.tree4{
+
+	height: 150px;
+	width: 300px;
+	margin-bottom: 20px;
+    margin-top: 20px;
+	float:left;
+	margin-left: 20px;
+}
+.tree5{
+	
+	height: 150px;
+	width: 300px;
+	margin-bottom: 20px;
+
+	margin-top: 20px;
+	margin-left: 20px;
+	float:left;
+}
+.tree6{
+	
+	width: 950px;
+	height:250px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	float:left;
+	margin-bottom: 20px;
+}
