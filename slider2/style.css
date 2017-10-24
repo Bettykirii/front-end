@@ -1,0 +1,15 @@
+
+.carousel-slide {
+	background-color: grey;
+}
+img{
+	height: 100%;
+	width: 100%;
+}
+.container-fluid{
+	padding:0;
+	margin:0;
+}
+.carousel-control{
+	color: red;
+}
